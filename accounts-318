@@ -1,0 +1,7207 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Stephens Biker Bar"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.6539066,
+          33.4102026
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Butt Out"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.9400558,
+          33.42631912
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "It's a House"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.893342,
+          33.517171
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Ptaceks IGA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -92.7880651,
+          44.7627861
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Fuzzy's Taco Shop"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.9404026,
+          33.4262932
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "RA Sushi Bar and Restaurant"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.9397965,
+          33.4260465
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Restaurant Mexico"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          33.4259372,
+          33.4259372
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Ncounter"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.9404024,
+          33.4271659
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "The Shoe Mill"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.940437,
+          33.4267732
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "4one4 Pub &  Pizza"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.9403838,
+          33.4258441
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Candy Addict"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.9403617,
+          33.4258798
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Carlyn's Barber Shop"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.9402652,
+          33.4258253
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Paletas Betty"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.9398052,
+          33.4257201
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Spinelli's Pizzeria"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.9404116,
+          33.4257387
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "The Trough Bar & Grill"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.6297263,
+          33.41488243
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Elite Cuts"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.9395227,
+          33.4258214
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Moonshine Whiskey Bar & Grill"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.9413275,
+          33.4267248
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Earl of Sandwich"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.9397665,
+          33.4251775
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "My Big Fat Greek Restaurant"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.9396972,
+          33.4248044
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Yada's Dev Resort"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.132319,
+          32.571665
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Mission Palms North Lot"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.9399399,
+          33.4275735
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Sparky's Old Town Creamery"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.9402254,
+          33.4250347
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Thirsty Dog 2 Go"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.9403211,
+          33.4252688
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Pita Pit"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.9403389,
+          33.4234212
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Gringo Star"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.9396194,
+          33.4253014
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Railway Company Store"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.939656,
+          33.425626
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Med Fresh Grill"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.9402246,
+          33.4258793
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Travel Leaders"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.9402894,
+          33.4257735
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Ike's Love & Sandwiches"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.93931,
+          33.423827
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Munchies Cafe"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.9395561,
+          33.4241891
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Slices Pizza"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.9394782,
+          33.4241556
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Deep Roots Studio"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.961109,
+          33.405106
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "CASA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.9398204,
+          33.4241852
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Divaz Boutique"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.9402587,
+          33.4248954
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Brand X Custom T-Shirts"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.9402694,
+          33.4260646
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Living Canvas Tattoo"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.9401577,
+          33.4196766
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "World of Beer"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.94039,
+          33.424531
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "The Handlebar & Grill"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.9403646,
+          33.4239067
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Hot N Juicy Crawfish"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.9406239,
+          33.4230343
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "La Bocca Pizzeria & Wine Bar"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.9398384,
+          33.4236101
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Hackett House"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.9411041,
+          33.4262054
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Erbert And Gerbert's"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.937632,
+          33.425335
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "The Bicycle Cellar"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.936596,
+          33.426102
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Tempe Mission Palms Hotel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.9388885,
+          33.4260468
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Mad Hatter Brew Pub"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.93526,
+          33.4251549
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Royal Coffee Bar and Roasting Co."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.93526,
+          33.4251549
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Headquarters Smokeshop"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.942902,
+          33.421402
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Top's Liquor"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.9449564,
+          33.4214798
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Taste of Top's"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.9448076,
+          33.4214886
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Fat Tuesday"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.9403662,
+          33.4238239
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Nush"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.9354473,
+          33.424737
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Student Book Center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.9352505,
+          33.4229362
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Postino Annex"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.9347223,
+          33.4238714
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "HERE* On The Corner"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.9352075,
+          33.4226521
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Little Szechuan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.946525,
+          33.42219
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Cupz Coffee"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.9347238,
+          33.4230547
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Grilled Ave Teriyaki House"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.9364056,
+          33.4228461
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Haus Of Vapors"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.940235,
+          33.4193872
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Happy Healthy High Horny Herb Shop"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.9398082,
+          33.4239473
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Moonage"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.9402862,
+          33.4185276
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Vanity On Mill"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.94034,
+          33.419498
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "My Pie"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.9347188,
+          33.4229176
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "NYPD Pizza"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.9405913,
+          33.4281282
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Copper Blues Rock Pub and Kitchen"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.9251749,
+          33.4224056
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Tempe Improv"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.9252291,
+          33.4224024
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Pitaya"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.9404724,
+          33.4247288
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "JUUT SalonSpa"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.9402814,
+          33.4247196
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Supersigns"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.960325,
+          33.421238
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Solaris"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.958571,
+          33.422212
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Synectic Design"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.955489,
+          33.421678
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Arai Pastry"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.9601574,
+          33.4212965
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Tempe studios"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.954871,
+          33.421675
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Roberts Shoe Repair"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.9600493,
+          33.4213855
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Nicks NY Pizza"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.9257103,
+          33.4223217
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Juba Restaurant"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.9247136,
+          33.4213508
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Zuma Grill"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.9396609,
+          33.4240537
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Nate's Place"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.9241486,
+          33.50535902
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Delice Bistro"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.94049,
+          33.423375
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Rita's Italian Ice"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.940813,
+          33.42263
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Which Wich"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.9403749,
+          33.4280826
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Endgame Barcade"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.9396166,
+          33.4235831
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Osaka Grill"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.9289703,
+          33.41407013
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Sacks Art of Sandwicherie"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.9391329,
+          33.4197573
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Patrick's Euro Bike Club"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.9397764,
+          33.4256844
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Joes Wacky Tacky Tacos"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.6332808,
+          33.3996663
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "The Image Connection"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.925675,
+          33.416645
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Ray's Barbershop"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.9256189,
+          33.4165705
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "The Blend"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.9347864,
+          33.4246155
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Pitchforks & Corks"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.935167,
+          33.423492
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Firehouse Subs"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.939146,
+          33.422209
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Sacks Art of Sandwicherie"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.9513821,
+          33.4212292
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Churchill's Fine Cigars"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.940461,
+          33.4241796
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "1865 Coffee"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.9384771,
+          33.4222507
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "US Post Office"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.9403717,
+          33.4251733
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Grooming Humans"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.9364765,
+          33.4226632
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "The Chuckbox"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.9364464,
+          33.4221761
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Dickeys Barbecue Pit"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.9348881,
+          33.424856
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Mellow Mushroom"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.940258,
+          33.423012
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Sea Of Green"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.9171942,
+          33.421058
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Zipps Sports Grill"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.9402854,
+          33.4234635
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Ehrhardt's Schwinn"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.9416659,
+          33.4215767
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "The Pedal Bike Shop"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.945423,
+          33.421598
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "The Pedal Bike Shop"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.9453004,
+          33.42142716
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Orange Table"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.9365,
+          33.4230028
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Salut Kitchen Bar"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.91502,
+          33.421618
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Flashback Games"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.915559,
+          33.421482
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Reptiles And Reefs"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.9156638,
+          33.4213167
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "ASU Fulton Center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.9344746,
+          33.4222541
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "City Hall West Lot"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.939095,
+          33.425388
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "5th St and Farmer Ave Parking Lot"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.943449,
+          33.42553399
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Fulton Garage"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.934611,
+          33.42243489
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Brickyard on Mill Garage"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.9390533,
+          33.42386403
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Tempe Beach Park Surface Lot"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.9429159,
+          33.43142343
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "City Hall Parking Garage - ParkiT"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.9373745,
+          33.42535037
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "University Square Lot"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.9373299,
+          33.4222038
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Barro's Pizza"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.3918895,
+          33.4626027
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "The Family Vibe"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.9235517,
+          33.4825153
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Germaway"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.9471431,
+          33.42727776
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Chez Thompson"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.9525504,
+          33.49840708
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Shawnz House"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.9437715,
+          33.55641427
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Royale Lifestyle, Inc."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.9244343,
+          33.4145028
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Pete's Saloon"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.0061946,
+          33.50007117
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Xavier home"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.9560909,
+          33.4278956
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Trump National Golf Club Bedminster"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.18007182,
+          40.2807265
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "University of Advancing Technology"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.9759768,
+          33.3774338
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "The Lofts"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.9494765,
+          33.4385202
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "El Hefe Mexican Restaurant"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.9404294,
+          33.4241224
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Lemonade Stand"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.9401908,
+          33.4253526
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "UAT Store"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.9759822,
+          33.37779208
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Cuban Pete's"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.9761968,
+          33.37770249
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Maia's House"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.8924904,
+          33.56440026
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Gordon Biersch Brewery Restaurant"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.9404183,
+          33.4257191
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Cartel Coffee Lab"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.9275795,
+          33.4984697
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Blasted Barley Beer Co."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.9408275,
+          33.4266622
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Hippie Gypsy"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.939826,
+          33.4241477
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Caffe Boa"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.9405248,
+          33.4266803
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Z'Tejas"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.941011,
+          33.4245539
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Campus Corner"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.9352759,
+          33.4228214
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Critical Threat Comics & Games"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.9362595,
+          33.4224399
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Hazelrock Coffee and Sweets"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.9257376,
+          33.422598
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "King Coffee"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.940271,
+          33.4184747
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Kohinoor Indian Cuisine"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.9224335,
+          33.4161186
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Hungry Howie's Pizza"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.9222779,
+          33.4161601
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "The Vine Tavern and Eatery"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.9272029,
+          33.414537
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "El Paisano's Market"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.9225751,
+          33.4164424
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Subroc Mini Mart"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.9244343,
+          33.4145028
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Walmart Express"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.9294507,
+          33.4143928
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "The UPS Store"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.9282086,
+          33.4164462
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Devil's Advocate Bar and Grill"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.9243265,
+          33.421676
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "The Gaming Zone"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.9540196,
+          33.4078747
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Taylor's House"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.9858715,
+          33.64254021
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Jerry's Drive-In Liquors"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.9260315,
+          33.4153672
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Domenic's 2 Wheelers"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.92677,
+          33.406939
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Popular Nails"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.9406737,
+          33.3948825
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "The UPS Store"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.94429,
+          33.348656
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Los Favoritos Taco Shop"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.9162367,
+          33.4083584
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Crisp Cutz"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.9507032,
+          33.4077429
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Sunchain Tanning"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.930073,
+          33.378956
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "The UPS Store"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.940363,
+          33.394883
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "The UPS Store"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.912241,
+          33.347949
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Hi-Health"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.939602,
+          33.393884
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Time Out Lounge"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.938558,
+          33.39474
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "A & A Smoke Shop"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.9406336,
+          33.3948279
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "YC's Mongolian Grill"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.909302,
+          33.394454
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Barro's Pizza"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.925548,
+          33.378954
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Palo Verde Lounge"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.9547782,
+          33.4070443
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Popeye's Louisiana Kitchen"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.9456368,
+          33.4067853
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Opa Life Greek Cafe"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.9356714,
+          33.3777921
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Woodshed Sports Bar & Grill"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.9401139,
+          33.3773838
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Hypur Inc"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.9194055,
+          33.6128818
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Caribbean Spice"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.9364336,
+          33.3777875
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Epic Oceans"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.9385826,
+          33.3939027
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Affordable Framing"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.9129167,
+          33.3943144
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Jim's Shoe & Boot Repair"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.9404611,
+          33.3776714
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Kyoto Bowl"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.939282,
+          33.394781
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Trophy Den"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.9420788,
+          33.3935885
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Spokes On Southern"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.9143609,
+          33.3940398
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Joe's Crab Shack"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.9124898,
+          33.3933449
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Zzeeks Zesty Pizza-Wings"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.9385382,
+          33.3943924
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Golden Eggroll"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.9614627,
+          33.3915497
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Taco Nazo"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.9616374,
+          33.3917221
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Beads Galore International Inc"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.9613823,
+          33.3916137
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Kicks Frozen Yogurt"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.9085612,
+          33.394833
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Johnny's Burgers & Dogs"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.9083276,
+          33.3947655
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Venezia's Pizzeria"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.9387869,
+          33.3917744
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Riverbound Sports"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.915612,
+          33.42094
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Flo's"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.9301578,
+          33.3787368
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Lotions & Potions"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.94047,
+          33.425711
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Sky High Smoke Shop"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.9405353,
+          33.392619
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Sky High Gallery"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.938555,
+          33.394512
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Monkey Pants Bar & Grill"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.9385474,
+          33.3936208
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "The Pod Drop"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.910718,
+          33.394123
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Painting With a Twist"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.9364391,
+          33.3777878
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Tom's BBQ"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.9380536,
+          33.377843
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Baseline Sports Bar"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.9371164,
+          33.3778065
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "No Tax Vape & Smoke"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.9533024,
+          33.4077449
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Smashburger"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.9019513,
+          33.4340756
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "MADgreens"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.901571,
+          33.433511
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Noodles & Company"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.901606,
+          33.433442
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Someburros"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.9389863,
+          33.3774882
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Paradise Bakery & Cafe"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.9021695,
+          33.4339436
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Genghis Grill"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.902011,
+          33.434227
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Mill Cue Club"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.9397635,
+          33.4239959
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Starbucks"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.9318588,
+          33.4178825
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Cold Stone Creamery"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.9016428,
+          33.4336681
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Taco Bell"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.9343731,
+          33.4176105
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "In-N-Out Burger"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.925427,
+          33.434903
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Jimmy John's"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.928956,
+          33.414457
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Burger King"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.934375,
+          33.417648
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Subway"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.934577,
+          33.417582
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Jimmy John's"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.940299,
+          33.423941
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Jimmy John's"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.9349094,
+          33.4249729
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Jimmy John's"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.9012489,
+          33.4333176
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Jimmy John's"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.926764,
+          33.393261
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Starbucks"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.9318588,
+          33.4178825
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Starbucks"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.9402633,
+          33.4256672
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Starbucks"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.9054921,
+          33.4299946
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Starbucks"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.9251596,
+          33.4090296
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Starbucks"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.9255007,
+          33.434332
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Subway"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.9507664,
+          33.4078244
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Subway"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.9402317,
+          33.4193046
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Subway"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.9352662,
+          33.4228896
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Taco Bell"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.9258106,
+          33.4150282
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Subway"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.9258749,
+          33.406217
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Subway"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.9167927,
+          33.4215472
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Taco Bell"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.9109859,
+          33.3932125
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Sunglass Hut"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.9019584,
+          33.4336015
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "McDonald's"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.9101898,
+          33.4214269
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "McDonald's"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.9095311,
+          33.3944437
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "McDonald's"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.9259268,
+          33.4157704
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "McDonald's"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.9586627,
+          33.4070751
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Arby's"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.9472766,
+          33.4069136
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "SONIC Drive In"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.9212065,
+          33.4081258
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Baskin-Robbins"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.9095555,
+          33.3960691
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Boston Market"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.9088564,
+          33.3912986
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Buffalo Wild Wings"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.9258467,
+          33.4235812
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Burger King��"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.9082922,
+          33.4070146
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Burger King��"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.957203,
+          33.4070539
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Burger King��"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.9390735,
+          33.392427
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "California Pizza Kitchen"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.903055,
+          33.432952
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Wingstop"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.9253847,
+          33.4343203
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Wendy's"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.9767468,
+          33.3932256
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Wendy's"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.9607313,
+          33.3778869
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Wendy's"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.9234257,
+          33.3787619
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Jamba Juice"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.934392,
+          33.417468
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "The Keg Steakhouse + Bar"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.907144,
+          33.432585
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "The Coffee Bean & Tea Leaf��"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.901869,
+          33.434005
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Jamba Juice"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.934,
+          33.417099
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Subway"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.9618121,
+          33.4215753
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Red Robin Gourmet Burgers"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.907572,
+          33.432465
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Port Of Subs"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.934705,
+          33.422835
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "P.F. Chang's"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.9403463,
+          33.4223551
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Papa John's Pizza"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.9514882,
+          33.4212485
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Papa John's Pizza"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.908559,
+          33.392953
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Panda Express"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.9344707,
+          33.422703
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Panda Express"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.9257804,
+          33.4079141
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Pancheros"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.9255737,
+          33.4343225
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Little Caesars Pizza"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.92728,
+          33.40679
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Jack in the Box"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.9397063,
+          33.4226379
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Jack in the Box"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.9248409,
+          33.4077261
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Five Guys"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.940099,
+          33.423465
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Dutch Bros. Coffee"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.9260266,
+          33.4169689
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Dutch Bros. Coffee"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.9394021,
+          33.3940243
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Domino's Pizza"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.9288804,
+          33.4142485
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Domino's Pizza"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.9536763,
+          33.4078681
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Denny's"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.9266711,
+          33.4354597
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Denny's"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.9765778,
+          33.4208438
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Denny's"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.9597743,
+          33.4071145
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Cold Stone Creamery"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.9096616,
+          33.3916427
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Culver's"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.9298629,
+          33.393472
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Chili's Grill & Bar"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.9445767,
+          33.4221734
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Chipotle Mexican Grill"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.901826,
+          33.433379
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Chipotle Mexican Grill"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.9404097,
+          33.4180096
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Carl's Jr. / Green Burrito"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.9639936,
+          33.3778934
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Carl's Jr"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.9269465,
+          33.4422844
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Original ChopShop Co."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.9358861,
+          33.4222179
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Divaz"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.9049291,
+          33.4328973
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Edible Arrangements"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.953845,
+          33.407891
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Richard's Ranch"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.0739872,
+          36.950861
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Men's Wearhouse"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.9026444,
+          33.4318451
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Wong's Place"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.906301,
+          33.3779468
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Bar Louie Tempe"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.901426,
+          33.433359
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Penzeys Spices"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.9027968,
+          33.4320195
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Essence Bakery Cafe"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.9511853,
+          33.4216522
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Hi-Health"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.9030095,
+          33.4322952
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Cornish Pasty Co."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.9518356,
+          33.4230069
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Peter Piper Pizza"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.908291,
+          33.37739
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Chutneys Indian Cuisine"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.9085954,
+          33.3773631
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Signarama Tempe"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.8963173,
+          33.4221051
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Geno's Pizza & Cheesesteaks"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.9035217,
+          33.4225285
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Dave's Dog House"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.9359483,
+          33.4185266
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Wessen Int'l Kitchen"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.9032245,
+          33.422532
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Sunny's Diner"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.908595,
+          33.4216404
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Mr Hunan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.9512687,
+          33.4227197
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Scully's (formerly Lucky Break)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.907373,
+          33.377298
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "AAA Liquors"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.9087607,
+          33.4213947
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Cheba Hut"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.9515283,
+          33.4227286
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Cafe Lalibela"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.951531,
+          33.42121
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Coyote Coffee"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.8977461,
+          33.4226556
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Little India"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.9069254,
+          33.3773514
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Haji-Baba"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.9134707,
+          33.4142459
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Sushi 101"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.9258503,
+          33.4222846
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Potbelly Sandwich Shop"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.9259345,
+          33.4096754
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Rosita's Fine Mexican Food"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.951622,
+          33.4227281
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Big Jimmy's"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.915801,
+          33.415318
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Cafe Istanbul Restaurant"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.9173263,
+          33.415543
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "nocawich"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.9347268,
+          33.4227701
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Cafe Istanbul Market & Hookah Lounge"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.9173263,
+          33.415543
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Costa Vida"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.926665,
+          33.413631
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "El Hefe NYC"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.6866602,
+          39.7068193
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Macayo's Depot Cantina"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.9431975,
+          33.427768
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Culinary Dropout at Farmer Arts District"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.9440706,
+          33.4285366
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Oregano's Pizza Bistro"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.9467856,
+          33.4217341
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Estimote Inc."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.989231,
+          40.738235
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Crepes on Campus"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.934289,
+          33.4174937
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Einstein Bros Bagels"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.9343521,
+          33.4177003
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "The Revival"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.9475739,
+          33.4216106
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Slickables"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.9397873,
+          33.4234812
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Pete's Fish & Chips"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.9237154,
+          33.4144961
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Pride Gas Station"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.9096231,
+          33.4151939
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Dierks Bentley's Whiskey Row"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.940753,
+          33.424146
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "W Chicago Lakeshore"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.61572364,
+          41.89380692
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "The Liberty Hotel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.07028904,
+          42.3618675
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Circle K University McClintock"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.9083422,
+          33.4224061
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Loco Patron Tempe"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.9405501,
+          33.4280932
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Total Wine & More"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.9015557,
+          33.4301714
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Circle K Apache Price"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.8925743,
+          33.4154344
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Circle K University Price"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.892377,
+          33.4226127
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Circle K University Ash"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.9420921,
+          33.4216224
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Circle K 1101 S Rural"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.9258657,
+          33.4165986
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Circle K Broadway Priest"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.9611368,
+          33.4077068
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Circle K 507 W Broadway"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.9462632,
+          33.4067068
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Luna Malvada Tequila"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.9214783,
+          33.6307305
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Railway Bar"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.9397764,
+          33.4256844
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Railway Demo 2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.9397764,
+          33.4256844
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Railway Patio"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.9397764,
+          33.4256844
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Jonathan's Place"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.0937311,
+          34.0489281
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Shady Park"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.9387205,
+          33.422242
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "No Name Saloon & Monkey Bar"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -92.8005814,
+          44.7481992
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Kmart"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.067894,
+          33.3793077
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Slices"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.9019653,
+          33.4335197
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Greek Pita"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.9019,
+          33.4334788
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Samsung Pay"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.1984681,
+          42.4823867
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Banctek"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -104.99344,
+          39.735664
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "LaneTerralever"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.0839775,
+          33.465584
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Mill Convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.9280028,
+          33.41643363
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Tallwave"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.9249041,
+          33.528607
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Patricks Winery"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.9423253,
+          33.4902113
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Patrick's house"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.8923569,
+          33.56450852
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Dan's House"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.4346698,
+          33.44791898
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Railway HQ"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.9397764,
+          33.4256844
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Test Demo"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.9398515,
+          33.42573363
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Canyon Trails Recreation Center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.4338473,
+          33.4469938
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Sun Devil Marketplace"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.9352286,
+          33.4234107
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "CVS Pharmacy"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.9403898,
+          33.421577
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Devils Liquor"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.9058746,
+          33.415085
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Cotton Lane RV Park"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.4351166,
+          33.4507427
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Courtyard Tempe Downtown"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.9428088,
+          33.424945
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Scottsdale"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.9260519,
+          33.4941704
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Cha Da Thai"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.8883065,
+          33.568349
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Sandler Training"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.8890497,
+          33.5599113
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Scottsdale United Adult Soccer"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.88856,
+          33.5683003
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Quartz Mountain Animal Hospital"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.8897795,
+          33.5683815
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Ezcpap"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.8884843,
+          33.5684021
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Jim Plemons Insurance Agency"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.8883065,
+          33.568349
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Grayhawk Enterprises / Investigations"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.8884843,
+          33.5684021
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "The Lunch Bag"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.888152,
+          33.5682933
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Allstate Insurance: Paulina Kalaj"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.8884351,
+          33.5682951
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "SpaMassage For You"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.888191,
+          33.568334
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Any Lab Test Now Scottsdale"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.8883749,
+          33.5683367
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Friends of the Orphans"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.8881588,
+          33.5603237
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Primo Studio Hair Design"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.8885405,
+          33.5683124
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Scuba 4 Less"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.88844,
+          33.568349
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "The Wallpaper And Border Store"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.8887907,
+          33.5682872
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Phoenix Flower Shops"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.8884897,
+          33.5682756
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "BellyRubz Doggy Playclub & Spa"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.8884181,
+          33.5682843
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Edward Jones - Financial Advisor: Dustin M Brown"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.8884447,
+          33.5683478
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "South Scottsdale"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.9164779,
+          33.48374
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Hotel Indigo Scottsdale"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.920963,
+          33.5008668
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Canyon Trails West"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.4365969,
+          33.4408081
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "West Adams Street"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.4345317,
+          33.4481649
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Garden Pizza"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.424481,
+          33.439481
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Aloft Tempe"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.924433,
+          33.434727
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Chandler"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.8412502,
+          33.3061605
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Williams Field High School"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.7221136,
+          33.3142929
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Phoenix-Mesa Gateway Airport"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.6577898,
+          33.3086773
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Gilbert High School"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.7666695,
+          33.3471337
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Higley High School"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.7010999,
+          33.2944273
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Gilbert Classical Academy"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.7375177,
+          33.3513426
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "San Tan Village"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.7430387,
+          33.3097319
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Canyon State Academy"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.6489079,
+          33.2633437
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Polytechnic Campus - Arizona State University"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.6797729,
+          33.307168
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Perry High School"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.7484805,
+          33.2617272
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "The Coffee Shop"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.7260572,
+          33.321824
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Highland High School"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.6981,
+          33.3644866
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Desert Hills High School"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.7549404,
+          33.3229705
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Subaru Superstore of Chandler"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.79096,
+          33.290257
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Campo Verde High School"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.7613228,
+          33.2798743
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Joe's Real BBQ"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.7894163,
+          33.3552503
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Best Western Legacy Inn & Suites"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.6877724,
+          33.3348591
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Big Two Toyota Scion of Chandler"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.7908669,
+          33.2879115
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Hyatt Place Phoenix/Gilbert"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.7526695,
+          33.2914181
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Gilbert"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.789027,
+          33.3528264
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "West Adams Street"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.4345317,
+          33.4481649
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Dan Test"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.4338473,
+          33.4469938
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Dan Test 2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.4338473,
+          33.4469938
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Dan Yet 3"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.4344463,
+          33.4473365
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Culinary Dropout"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.9273226,
+          33.5018767
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Destiny Phoenix West"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.4449544,
+          33.4515678
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Sprinkles Cupcakes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.9258631,
+          33.5026835
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Canyon Trails"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.4127552,
+          33.4559741
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Copper Trails Elementary School"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.4212592,
+          33.4426631
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Bank of America Financial Center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.425795,
+          33.4389204
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Target"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.4212751,
+          33.4377084
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Jack in the Box"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.422157,
+          33.4360785
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Ross Dress for Less"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.421449,
+          33.43896
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Roman's Oasis"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.4213913,
+          33.4354762
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Ah-Hai Sushi & Grill"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.4244004,
+          33.439028
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "PetSmart Goodyear"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.422974,
+          33.441696
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Desert Thunder Elementary School"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.4183551,
+          33.456521
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Westview Self Storage"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.4339401,
+          33.4528762
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Goodyear Smiles Dentistry and Orthodontics"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.4249358,
+          33.4394679
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "LA Fitness"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.4296121,
+          33.4340695
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Target Optical"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.4213093,
+          33.4383446
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Canyon Trails Towne Center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.4238251,
+          33.4394277
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Target Pharmacy"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.4212463,
+          33.4377678
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Goodyear"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.3576567,
+          33.4353394
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Desert Harbor"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.2533044,
+          33.6204185
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Costco Wholesale"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.2335205,
+          33.6433033
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Harkins Theatres Arrowhead 18"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.238928,
+          33.63064
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Arrowhead Towne Center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.2255156,
+          33.6418874
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Johnny Rockets"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.2255781,
+          33.6417084
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Best Buy"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.2327012,
+          33.6403234
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Peoria Sports Complex"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.2337822,
+          33.6316907
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Holiday Inn Express Peoria North - Glendale"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.2413362,
+          33.6361095
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Moore Chrysler Jeep"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.2442054,
+          33.6388894
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Buca di Beppo - Arrowhead"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.236796,
+          33.632441
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Larry H. Miller Toyota Peoria"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.2441765,
+          33.6369232
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Comfort Suites Peoria Sports Complex"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.236769,
+          33.637099
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "La Quinta Inn & Suites Phoenix West Peoria"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.2328221,
+          33.6351246
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Arizona Broadway Theatre"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.224918,
+          33.63411
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Trader Joe's"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.226367,
+          33.639151
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "AZ Ice Peoria"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.2359257,
+          33.6261791
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Lunde's Peoria Volkswagen"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.2485098,
+          33.6372908
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Barnes & Noble"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.2240064,
+          33.6356138
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Ah-So Sushi & Steak"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.2207244,
+          33.6348835
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Glendale"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.1859866,
+          33.5386523
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "North Italia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.9949026,
+          33.5090375
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Meyer Country Farms Ltd"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.8884843,
+          33.5684021
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Public Storage"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.03527,
+          37.33369
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Fry's Food And Drug"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.7196434,
+          33.2904496
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Buffalo Exchange"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.9432752,
+          33.4215907
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "House of Tricks"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.9374575,
+          33.4235025
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "The Melting Pot"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.8990555,
+          33.5567605
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Arizona Pain Specialists"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.882235,
+          33.573783
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Meridian CondoResorts"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.899636,
+          33.554825
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Hiro Sushi"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.8865144,
+          33.5705679
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Advanced Fertility Care"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.875155,
+          33.5755936
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Brunswick Zone Via Linda Bowl"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.885138,
+          33.568357
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Rancho Solano Preparatory School"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.8842412,
+          33.5541224
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Cochise Elementary School"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.898057,
+          33.5710075
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Andreoli Italian Grocer"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.8895606,
+          33.5691961
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Tavern Grille Scottsdale"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.8898941,
+          33.5691226
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Vermont Sandwich Co"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.8896564,
+          33.5695953
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Red House"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.8891742,
+          33.5702657
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "The Home Depot"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.888099,
+          33.576554
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Scottsdale Healthcare Corporate Health-Shea"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.881309,
+          33.5783596
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Dr. Robert V. Newman, MD"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.879163,
+          33.5789666
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Yopaulys New York Pizza Co"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.8896845,
+          33.5695384
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Scottsdale Gymnastics"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.87825,
+          33.5696211
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Mustang Library"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.8848782,
+          33.5780013
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "McCormick Ranch"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.8985922,
+          33.5563361
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Big Surf Waterpark Tempe"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.912553,
+          33.445721
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "ASU Karsten Golf Course"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.917005,
+          33.428345
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Dr. Andrew Wu L.Ac"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.0339788,
+          37.3300052
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Paisan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.939805,
+          33.425627
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Arizona State University Art Museum"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.9388722,
+          33.4186704
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Pita Jungle - Tempe"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.9396393,
+          33.4221985
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Wells Fargo Arena"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.931019,
+          33.4244569
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Mona Plummer Aquatic Complex"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.9341606,
+          33.4241259
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Old Main"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.9340518,
+          33.4205768
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Arizona Center for Medieval and Renaissance Studies"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.9373572,
+          33.4193468
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Riverside"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.9477777,
+          33.4259514
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Sun Devil Stadium"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.9326249,
+          33.426544
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Casey Moore's Oyster House"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.9426688,
+          33.42067
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Harkins Theatres Valley Art"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.939844,
+          33.425095
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Tempe"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.9400054,
+          33.4255104
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Paradise Valley Country Club"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.97463,
+          33.5398201
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Bass Pro Shops"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.8663979,
+          33.4366164
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Ski Pro"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.8726742,
+          33.4299905
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Fountain of the Sun"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.6571293,
+          33.4006595
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Lee Eyecare Center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.6329759,
+          33.3786073
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Valle Del Oro RV Resort"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.6330339,
+          33.3887419
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Chens Chinese Restaurant"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.6331454,
+          33.3781833
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Lowe's Home Improvement"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.6299912,
+          33.3921317
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Uncle Bear's Grill & Tap"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.638693,
+          33.3780797
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Rudy's Burritos"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.6344968,
+          33.3773554
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Starbucks"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.6355342,
+          33.3774383
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "The UPS Store 3950"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.634489,
+          33.377517
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Silveridge RV Resort"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.6526199,
+          33.3903075
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Safeway"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.6383252,
+          33.3773395
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Alps Services, LLC"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.634661,
+          33.377437
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Albertsons"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.6336674,
+          33.37787
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Yogis Grill"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.6356034,
+          33.3774472
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Peter Piper Pizza"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.638681,
+          33.378804
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Long John Silver's"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.6338468,
+          33.37873
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "McDonald's"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.6355214,
+          33.3782205
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Starbucks"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.6381767,
+          33.377204
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Subway"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.6342115,
+          33.3775504
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Mesa"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.8314724,
+          33.4151843
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Metropolis"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.928296,
+          33.5065386
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Perfection Pools"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.4161898,
+          33.4600712
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Phoenix Trotting Park"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.4376011,
+          33.4579582
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Phoenix Trotting Park"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.4376011,
+          33.4579582
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "AH-SO Sushi & Steak"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.3918433,
+          33.4627751
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Buckeye"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.5837766,
+          33.3703197
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Bradley Academy"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.4050793,
+          33.4232098
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Goodyear Ballpark"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.389841,
+          33.4292792
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "North Valley Power Center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.2287149,
+          33.6363505
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Residence Inn Phoenix Glendale/Peoria"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.237049,
+          33.63597
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Hampton Inn Phoenix/Glendale/Peoria"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.2357443,
+          33.6362089
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "The UPS Store"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.2300916,
+          33.6393427
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Arriba Mexican Grill Inc"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.2294537,
+          33.6401992
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Horizon Eye Specialists & Lasik Center - Peoria"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.236999,
+          33.63501
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Ramada Glendale"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.230231,
+          33.641146
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "CarLife Auto Repair & Service"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.2313686,
+          33.6410143
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Dee's Dancewear"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.2300272,
+          33.639386
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Cucina Tagliani Italian Kitchen - Peoria"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.2357522,
+          33.6375649
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Boot Barn"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.2314005,
+          33.6409527
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "In-N-Out Burger"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.2330143,
+          33.6377307
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Red Robin Gourmet Burgers"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.2335573,
+          33.6346504
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Corner Bakery Cafe"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.2344715,
+          33.6354122
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Hooters"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.2343141,
+          33.6360076
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Subway"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.2313998,
+          33.6368908
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Nordstrom Wedding Suite - Fashion Square"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.9294422,
+          33.5016744
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Macy's"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.9299492,
+          33.504123
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Gucci"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.9291087,
+          33.504027
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Dicks Sporting Goods"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.9293867,
+          33.5031399
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Subway"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.9295012,
+          33.5040505
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Pizzeria Bianco"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.0656424,
+          33.4491692
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Arizona Science Center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.0665282,
+          33.4487192
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Arizona Grand Resort & Spa"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.9717857,
+          33.3734861
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Bethany Christian School"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.882232,
+          34.200633
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Comme Par Hasard"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.5099492,
+          45.537736
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Frites Alors"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.5103804,
+          45.5380092
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "E.D. Marshall Jewelers Scottsdale"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.925856,
+          33.579461
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "W Scottsdale"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.924034,
+          33.501564
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Scottsdale Stadium"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.9205385,
+          33.4891227
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Oborn Zoo"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.7071011,
+          33.29506566
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Safeway"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.910397,
+          33.510687
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Majerle's Sports Grill"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.9220099,
+          33.5014717
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Cactus Sports"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.9401022,
+          33.42497662
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Redline Creative Group"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.981377,
+          33.502318
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Elizabeth's House "
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.9262692,
+          33.51716168
+        ]
+      }
+    }
+  ]
+}
